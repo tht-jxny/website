@@ -16,7 +16,7 @@ contributions:
     author:
       name: "Daniel Shiffman"
       url: "https://thecodingtrain.com"
-    url: "https://github.com/CodingTrain/Pi-Day-2019"
+    url: https://editor.p5js.org/tht-jxny/full/RG9tqIJqN
     source: "https://github.com/CodingTrain/Pi-Day-2019"
 
 links:
